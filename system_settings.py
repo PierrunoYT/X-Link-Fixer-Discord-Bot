@@ -5,4 +5,4 @@ x_mirror_url = "https://fixupx.com"
 # x_mirror_url = "https://fxtwitter.com"
 # x_mirror_url = "https://vxtwitter.com"
 
-bot_status_text = "Fixing your links" # Self explanitory
+bot_status_text = "Fixing your links" # Self explanatory
